@@ -1,0 +1,4 @@
+name: sravani Chinthalapati 
+group: bsc computer science 
+gender: female
+section:A
